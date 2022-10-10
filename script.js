@@ -34,3 +34,11 @@ function makeitgithub() {
 
 
 
+
+
+function project() {
+    username.innerHTML = "My Projects"
+    followbutton.innerHTML = twittelink;
+    
+
+}
